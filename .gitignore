@@ -1,0 +1,8 @@
+# Ignorer tout
+*
+
+# Sauf .zshrc 
+!.zshrc
+
+# Sauf .gitignore lui-même
+!.gitignore
